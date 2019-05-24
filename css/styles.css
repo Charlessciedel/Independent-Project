@@ -1,4 +1,4 @@
-*{
+*{color: #296e01;
 
 }
 .sidenav {
@@ -32,13 +32,22 @@ border-radius: 50%;}
 body{font-family: 'Cute Font', cursive;
 }
 .body {
+background:
+linear-gradient( rgba(46, 179, 214, 0.80), rgba(67, 204, 152, 0.80)),
+ url("https://wallpapercave.com/wp/GFgaTMB.jpg");
 
   height:100%;
   margin-left: 350px;
   overflow: auto;
  text-align: center;
+ page-break-inside: auto;
+ font-size: 2em;
+
 }
-h1{
+.name{
 padding-top: 40px;
 font-size: 3em;
 }
+.p1{margin-top: 40px;
+font-size: 1.5em;
+margin-bottom: 60px;}
