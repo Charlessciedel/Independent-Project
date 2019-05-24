@@ -1,4 +1,15 @@
 *{
   box-sizing: border-box;
 }
-p{text-align: center;}
+.sidenav {
+  height: 100%;
+  width: 350px;
+  position: fixed;
+
+  top: 0;
+  left: 0;
+  background-image: url("https://wallpapercave.com/wp/4Dma2qt.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+}
+.sidenav a{display: block;}
