@@ -1,4 +1,4 @@
-*{color: #296e01;
+*{color: black;
 
 }
 .sidenav {
@@ -8,7 +8,7 @@
 z-index: 1;
   top: 0;
   left: 0;
-  background-image: url("https://wallpapercave.com/wp/GxsYmOF.jpg");
+  background-color: white;
 background-size: cover;
 background-repeat: no-repeat;
 overflow-x: hidden;
@@ -20,8 +20,8 @@ padding: 15px;
 
 
 }
-.sidenav a:hover{background-color: white;
-  color:black;
+.sidenav a:hover{background-color: black;
+  color:white;
 
 
 }
@@ -51,3 +51,4 @@ font-size: 3em;
 .p1{margin-top: 40px;
 font-size: 1.5em;
 margin-bottom: 60px;}
+hr {padding: 2px}
