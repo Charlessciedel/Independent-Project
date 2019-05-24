@@ -1,5 +1,5 @@
 *{
-  box-sizing: border-box;
+
 }
 .sidenav {
   height: 100%;
@@ -31,12 +31,14 @@ border-radius: 50%;}
 
 body{font-family: 'Cute Font', cursive;
 }
-.body {height:100%;
-  margin-left: 600px;
-  padding-left: 20px;
-}
+.body {
 
+  height:100%;
+  margin-left: 350px;
+  overflow: auto;
+ text-align: center;
 }
-h1{position: absolute;
-  top: 50%;
-  font-size: 5em; }
+h1{
+padding-top: 40px;
+font-size: 3em;
+}
