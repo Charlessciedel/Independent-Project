@@ -21,7 +21,6 @@ The portfolio entails some details about the developer, his interests and some o
 
 
 
-
 License
 MIT License
 
