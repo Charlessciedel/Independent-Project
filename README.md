@@ -6,7 +6,7 @@
 
 ## Description
 
-The portfolio entails some details about the developer, his interests and some of his featured projects. It is aimed at helping other developers and potential employers access some of the projects that she will be working on during her career.
+The portfolio entails some details about the developer, his interests and some of his featured projects. It is aimed at helping other developers and potential employers access some of the projects that he will be working on during her career.
 
 ## Setup instructions
 
